@@ -1,2 +1,2 @@
-# RutheniumOS (DEVELOPMENT CURRENTLY IN HIATUS.)
-An Arch-based Linux distro currently in hiatus made with ArchISO, only available for x86_64 for now. LiveUSB focused, you can technically install it on your drive but that'll ruin the whole point as all the changes and added features are in the live environment.
+# RutheniumOS
+An Arch-based Linux distro made with ArchISO, only available for x86_64 for now. LiveUSB focused, good for situations like system recovery or for people who need an "amnesic" linux system like Tails Linux (which is why tools like the Tor browser are included in it) you can technically install it on your drive but that'll ruin the whole point as all the changes and added features are in the live environment.
